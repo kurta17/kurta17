@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurta17
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning math.
-- 💞️ I’m looking to collaborate on internship.
+- 👀 I’m interested in web development, artificial intelligence.
+- 🌱 I’m currently learning python, SQL.
+- 💞️ I’m looking to collaborate on an internship.
 - 📫 How to reach me ...
 
 <!---
