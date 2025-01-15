@@ -1,6 +1,6 @@
 👋 Hi, I’m @kurta17
-👀 I’m interested in web development, artificial intelligence.
-🌱 I’m currently learning Python.
+👀 I’m interested in artificial intelligence.
+🌱 I’m currently learning Agentic AI.
 💞️ I’m looking to collaborate on an internship.
 📫 Reach me at thinkers.struggle@gmail.com
 
